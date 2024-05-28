@@ -1,1 +1,1 @@
-# Data-visualization-to-track-the-coronavirus-outbreak
+# Data visualization to track the coronavirus outbreak
